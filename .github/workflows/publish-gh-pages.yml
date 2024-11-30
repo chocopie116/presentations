@@ -19,6 +19,7 @@ jobs:
           output-dir: .output
           generate-html: true
           allow-local-files: true
+          options: --html --input-dir ./20241125_langchain-langgraph-study
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
