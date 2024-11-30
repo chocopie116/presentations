@@ -9,7 +9,11 @@
 ```sh
 $ npm run server
 ```
-またgithub pagesにhtml, PDF共ににdeployされています。
+またgithub pagesにhtml, PDF共に.mdに対応する形でdeployされています。
+
+20241125_langchain-langgraph-study/index.md
+=> https://chocopie116.github.io/presentations/20241125_langchain-langgraph-study/index.html
+=> https://chocopie116.github.io/presentations/20241125_langchain-langgraph-study/index.pdf
 
 
 ## PDF出力
