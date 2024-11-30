@@ -11,18 +11,18 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Convert Markdown into HTML and PDF
         uses: KoharaKazuya/marp-cli-action@v1
         with:
-          output-dir: .output
-          generate-html: true
+          output-dir: dist
           allow-local-files: true
-          options: --html --input-dir ./20241125_langchain-langgraph-study
+          generate-html: true
+          options: --html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./.output
+          publish_dir: dist
