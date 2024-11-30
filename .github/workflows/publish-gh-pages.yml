@@ -15,9 +15,13 @@ jobs:
 
       - name: Convert Markdown into HTML and PDF
         uses: KoharaKazuya/marp-cli-action@v1
+        with:
+          output-dir: .output
+          generate-html: true
+          allow-local-files: true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./.output
