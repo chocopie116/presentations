@@ -9,13 +9,13 @@
 ```sh
 $ npm run server
 ```
-
 またgithub pagesにhtml, PDF共ににdeployされています。
+
 
 ## PDF出力
 以下のコマンドでPDFを出力できます
 
 ```sh
-npm run server
-npm run pdf -- 20241125_LAGNCHAIN-LANGGRAPH勉強会/スライド.md -o ~/Desktop/20241125-勉強会スライド.pdf
+$ npm run server
+$ npm run pdf -- 20241125_LAGNCHAIN-LANGGRAPH勉強会/スライド.md -o ~/Desktop/20241125-勉強会スライド.pdf
 ```
