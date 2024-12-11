@@ -21,5 +21,5 @@ $ npm run server
 
 ```sh
 $ npm run server
-$ npm run pdf -- 20241125_LAGNCHAIN-LANGGRAPH勉強会/スライド.md -o ~/Desktop/20241125-勉強会スライド.pdf
+$ npm run pdf -- 20241211_ragaiagent/スライド.md -o ~/Desktop/20241211-勉強会スライド.pdf
 ```
