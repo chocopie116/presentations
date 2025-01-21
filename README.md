@@ -38,17 +38,17 @@ code .
 
 ### PDFとして出力
 ```bash
-marp スライド.md --pdf
+marp 20241211_ragaiagent/スライド.md --pdf -o ~/Desktop/ragaiagent_presentation.pdf
 ```
 
 ### HTMLとして出力
 ```bash
-marp スライド.md --html
+marp 20241211_ragaiagent/スライド.md --html -o ~/Desktop/ragaiagent_presentation.html
 ```
 
 ### PowerPointとして出力
 ```bash
-marp スライド.md --pptx
+marp 20241211_ragaiagent/スライド.md --pptx -o ~/Desktop/ragaiagent_presentation.pptx
 ```
 
 ### プレゼンテーションモード（ライブプレビュー）
