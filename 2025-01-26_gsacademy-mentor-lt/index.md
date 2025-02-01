@@ -107,8 +107,8 @@ _color: white
 ---
 # ここで水を飲む
 
-#### (さりげなく時計を確認)
-![bg right:60% brightness:1](./images/water.jpeg)
+##### (さりげなく時計を確認)
+![bg right:60% brightness:1](./images/water.png)
 
 ---
 
@@ -135,11 +135,12 @@ _color: white
 
 #### 他のメンターと比較したちがい
 
-- 独立して小さいチームで動いている
+- 独立して0→1をたくさんやってる
 - 技術的 器用貧乏(広く浅く)
+- AIチョットやってる
 - いいね！と無責任にたくさん言う
 
-![bg right:30% brightness:1](./images/20230203gs/iine.png)
+![bg right:30% brightness:1](./images/iine.png)
 
 ---
 
@@ -159,7 +160,8 @@ _color: white
 
 ---
 ### メンタリングイメージ
-週１で６０分オンラインmtg
+- オンラインmtg(30分/週)
+- slack等でのチャットサービス(随時)
 
 ---
 
@@ -168,14 +170,11 @@ _color: white
 - 正しさを追い求めすぎない
 - 努力は夢中にかなわない
 
-![bg right:30% brightness:1](./images/20230203gs/uekara.png)
+![bg right:30% brightness:1](./images/uekara.png)
 
 ---
 
-<!--
-_color: white
--->
 
 # Thank You.
 
-
+![bg right:50% brightness:1](./images/thankyou.png)
