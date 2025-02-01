@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: uncover
-footer: "2025/01/28 G'sメンター自己紹介LT @chocopie116"
+footer: "2025/02/01 G'sメンター自己紹介LT 梶沼翼"
 paginate: true
 ---
 
@@ -34,7 +34,7 @@ _color: white
 
 ---
 
-![bg fit brightness:0.7](./images/eyecatch.png)
+![bg fit](./images/eyecatch.png)
 
 ---
 
@@ -78,7 +78,7 @@ _color: white
 
 ---
 
-# SWALLOW 合同会社
+# SWALLOW　　　合同会社
 ![bg right:40% brightness:1](./images/swallow.png)
 
 ---
@@ -101,13 +101,13 @@ _color: white
 - 2 地元就職 → 東京就職
 - 3 コンサルタント →IT ベンチャー
 - 4 ビジネス職 → エンジニア職
-- 5 会社員 → 自営業
-- 6 リスクヘッジ →リスク
+- 5 会社員 → 独立
+- 6 リスクヘッジ →リスクテイク
 
 ---
 # ここで水を飲む
 
-##### (さりげなく時計を確認)
+##### (さりげなく　　　時計を確認)
 ![bg right:60% brightness:1](./images/water.png)
 
 ---
