@@ -321,6 +321,7 @@ _color: white
 - 技術的 器用貧乏(広く浅く)
 - AIチョットやってる
 - いいね！と無責任にたくさん言う
+- AIにきいてくれとたくさん言う
 
 ![bg right:30% brightness:1](./images/iine.png)
 
